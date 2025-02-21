@@ -12,7 +12,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/DevLinks • Projeto Discover (Community).jpg">
+  <img alt="Projeto DevLinks" src="assets/assets/Cover.jpg">
 </p>
 
 <br>
@@ -36,7 +36,7 @@ O DevLinks e um agregador de links para usar como cartao de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/Rj7Ko7Yer7sMjCeCWLHkN2/DevLinks-•-Projeto-Discover-(Community)?node-id=0-1&p=f&t=BWBFhjz76XfqjGJa-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/Rj7Ko7Yer7sMjCeCWLHkN2/DevLinks-•-Projeto-Discover-(Community)?node-id=0-1&p=f&t=BWBFhjz76XfqjGJa-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
