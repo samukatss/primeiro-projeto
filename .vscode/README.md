@@ -1,7 +1,7 @@
-<h1 align="center"> Devlinks</h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="Projeto Devlinks" src="./.github/DevLinks • Projeto Discover (Community).jpg">
+  <img alt="Projeto DevLinks" src=".github/DevLinks • Projeto Discover (Community).jpg">
 </p>
 
 <br>
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma 
+- Figma
 
 ## 💻 Projeto
 
@@ -36,7 +36,7 @@ O DevLinks e um agregador de links para usar como cartao de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/Rj7Ko7Yer7sMjCeCWLHkN2/DevLinks-•-Projeto-Discover-(Community)?node-id=10-620&p=f&t=A5k0lNQaqFomd1tW-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/Rj7Ko7Yer7sMjCeCWLHkN2/DevLinks-•-Projeto-Discover-(Community)?node-id=0-1&p=f&t=BWBFhjz76XfqjGJa-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
